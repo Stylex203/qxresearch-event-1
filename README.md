@@ -124,3 +124,4 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 </a>
 Изменение A
 Изменение B
+Изменение C
