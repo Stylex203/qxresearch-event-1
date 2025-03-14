@@ -125,3 +125,4 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 Изменение 1
 Изменение 2
 Изменение 3
+Доп. изменение 1
