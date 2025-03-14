@@ -122,6 +122,10 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lggxrc0abm2i1s2ok85l" alt="trackgit-views" />
 </a>
+
 Изменение A
 Изменение B
 Изменение C
+Изменение 1
+Изменение 2
+Изменение 3
